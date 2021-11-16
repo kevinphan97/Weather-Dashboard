@@ -5,7 +5,6 @@
   -[Description](#description)<br/>
   -[Installation](#installation)<br/>
   -[Usage](#usage)<br/>
-  -[License](#license)<br/>
   -[Contribution](#contribution)<br/>
   -[Testing](#testing)<br/>
   -[Questions](#questions)<br/>
@@ -17,10 +16,7 @@
   To install the application, clone the repository.
 
   ## Usage
-  You can access the application at: 
-
-  ## License
-  The license for this application is: 
+  You can access the application at: https://kevinphan97.github.io/Weather-Dashboard/
 
   ## Contribution
   No contribution needed.
